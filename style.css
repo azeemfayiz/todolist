@@ -116,3 +116,6 @@ ul li span:hover
     background: #edeef0;
 
 }
+@media (max-width: 768px) {
+  /* Styles for screens up to 768px wide */
+}
