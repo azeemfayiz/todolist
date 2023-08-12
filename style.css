@@ -14,6 +14,7 @@
     align-items: center;
     margin: auto;
     border: 3px solid #4287fs;
+    overflow: hidden;
 }
 .todo-app
 {
