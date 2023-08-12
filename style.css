@@ -120,4 +120,6 @@ ul li span:hover
 @media (max-width: 450px) {
     /* Styles for screens up to 768px wide */
   }
-  
+  @media (min-width:370px)
+{
+}
